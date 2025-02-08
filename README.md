@@ -4,9 +4,9 @@
 A simple password manager that uses the `cryptography` library to securely store and manage passwords. It allows for password encryption, decryption, and safe key storage.
 
 ## Features
-- Encryption: Encrypt and decrypt passwords using a strong key.
-- Key Management: Generate and store encryption keys securely.
-- Secure Storage: The encrypted passwords are stored safely and can be decrypted only with the correct key.
+- **Encryption**: Encrypt and decrypt passwords using a strong key.
+- **Key Management**: Generate and store encryption keys securely.
+- **Secure Storage**: The encrypted passwords are stored safely and can be decrypted only with the correct key.
 
 ## Setup
 
